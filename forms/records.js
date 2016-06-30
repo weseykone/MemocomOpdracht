@@ -2,6 +2,7 @@
  * @properties={typeid:35,uuid:"C1EBD7AD-9520-49F9-B817-5108503A6A6A",variableType:-4}
  */
 var client = plugins.http.createNewHttpClient();
+
 /**
  * @type {String}
  *
